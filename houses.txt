@@ -1,5 +1,5 @@
-(owner ,house number, area (square meteres), solar panels amounts, electricity consumption per day (kWh), water consumption per day (litres), heating installation efficienty in %)
-(Bill Gates, 32, 120, 5, 10.534, 120, 30.0) 
+(owner ,house number, area (square meteres), solar panels amounts, electricity consumption per day (kWh), water consumption per day (litres), gas consumption, built date)
+(Bill Gates, 32, 120, 5, 10.534, 120, 30.0, )
 (John Cena, 34, 78, 1, 20.324, 400, 12.1) 
 (Jennifer Lopez, 36, 250, 9, 42.42, 93, 60.2) 
 (Maximilian David, 38, 90, 0, 9.92, 132, 23.3) 
